@@ -1,0 +1,28 @@
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+    background: linear-gradient(to bottom, #6b6970, #474040);
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+p, label {
+    color: white;
+}
+
+form {
+    background-color: black;
+    padding: 3%;
+    border: solid;
+    border-radius: 10px;
+}
+
+button {
+    width: 100%;
+}
+
