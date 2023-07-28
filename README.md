@@ -1,7 +1,7 @@
 # Gym-Management-App
 
 This is a Gym Management app made for gym owners using PHP and SQL.
-This project was only made for learning PHP.
+This project was only made for learning PHP purposes.
 
 You can check it out here : "https://gym-manage-system.000webhostapp.com/" 
 using the username and password: "adminjara"
